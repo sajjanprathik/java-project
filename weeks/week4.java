@@ -2,7 +2,7 @@ package weeks;
 
 import java.util.*;
 
-public class week4 {
+public class week4 {                                                                              //CLASS WEEK4 IN WEEKS PACKAGE
        
    
     public void week4_internship()
