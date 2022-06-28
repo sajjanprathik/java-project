@@ -1,6 +1,6 @@
 package weeks;
 
-import java.util.*;
+import java.util.*;                                                                                //CLASS WEEK2 IN WEEKS PACKAGE
 
 public class week2 {
    
@@ -50,7 +50,7 @@ public class week2 {
                                     }
    
      
-    }
-}
-    }
+                      }
+                  }
+      }
 }
