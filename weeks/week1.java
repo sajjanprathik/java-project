@@ -1,6 +1,6 @@
 
 
-package weeks;
+package weeks;                                                                             //CLASS WEEK1 IN WEEKS PACKAGE
 import java.util.*;
  
 
