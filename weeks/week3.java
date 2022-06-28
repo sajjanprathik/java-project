@@ -3,7 +3,7 @@ package weeks;
 
 import java.util.*;
 
-public class week3 {
+public class week3 {                                                                         //CLASS WEEK1 IN WEEKS PACKAGE
    
    
     public void week3_internship()
