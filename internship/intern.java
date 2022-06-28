@@ -1,7 +1,7 @@
-package internship;
+package internship;                                                             
 import java.lang.String;
 
-import weeks.week1;
+import weeks.week1;                                                                 //IMPORTING PACKAGES
 import weeks.week2;
 import weeks.week3;
 import weeks.week4;
