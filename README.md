@@ -1,5 +1,5 @@
 
- #   REGIM OF TRANIEE
+ #   REGIME OF TRANIEE
  Here in this project , there is a interaction of a intern with software
  and get to know about his topic of that particular day.
  
